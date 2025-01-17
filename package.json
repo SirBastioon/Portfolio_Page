@@ -1,7 +1,7 @@
 {
   "name": "portfolio-page",
   "version": "0.1.0",
-  "homepage": "https://sirbastioon.github.io/Portfolio_Page",
+  "homepage": "https://sirbastioon.github.io/Portfolio_Page/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
